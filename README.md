@@ -1,6 +1,6 @@
 # Hi, I'm Burhan 👋
 
-Senior Full Stack Engineer with 4+ years building web products across SaaS, fintech, healthcare, and e-commerce. Currently at MindHYVE.ai working on an AI-powered learning platform — building things like a real-time streaming AI tutor, LLM content pipelines, and multi-tenant institution management.
+Senior Full Stack Engineer with 4+ years building web products across SaaS, fintech, healthcare, and e-commerce. Lately I've been building AI-powered features, things like real-time streaming chat interfaces and LLM-based content generation.
 
 ## What I work with
 
@@ -21,10 +21,10 @@ Azure · AWS · Docker · CI/CD · Vercel · DigitalOcean · GitHub Actions
 
 ## What I've shipped
 
-- Real-time SSE streaming AI chat tutor on web and mobile
-- LLM-powered curriculum and lesson generation pipelines
+- Real-time SSE streaming AI chat interface with 50ms token-batching render pipeline
+- LLM-powered content generation pipelines with async background processing
 - Cross-platform TypeScript SDK with swappable web/mobile adapters
-- Multi-tenant SaaS platform serving institutions in Pakistan, Kenya, and the USA
+- Multi-tenant SaaS platform serving institutions across Pakistan, Kenya, and the USA
 - Shopify GraphQL migration that improved query speed by 29%
 - Phone-based MFA with Okta across a fintech platform
 
