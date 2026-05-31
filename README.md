@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Burhan 👋
 
-<!--
-**burhank928/burhank928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Engineer with 4+ years building web products across SaaS, fintech, healthcare, and e-commerce. Currently at MindHYVE.ai working on an AI-powered learning platform — building things like a real-time streaming AI tutor, LLM content pipelines, and multi-tenant institution management.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+React.js · Next.js · TypeScript · Tailwind CSS · Zustand · TanStack Query · Radix UI · Framer Motion
+
+**Backend**
+Node.js · NestJS · Express.js · Ruby on Rails · Prisma · REST · GraphQL
+
+**AI & LLM**
+OpenAI API · Azure AI Foundry · SSE Streaming · Prompt Engineering · LLM Integration
+
+**Databases**
+PostgreSQL · MongoDB · Redis · MySQL
+
+**Cloud & DevOps**
+Azure · AWS · Docker · CI/CD · Vercel · DigitalOcean · GitHub Actions
+
+## What I've shipped
+
+- Real-time SSE streaming AI chat tutor on web and mobile
+- LLM-powered curriculum and lesson generation pipelines
+- Cross-platform TypeScript SDK with swappable web/mobile adapters
+- Multi-tenant SaaS platform serving institutions in Pakistan, Kenya, and the USA
+- Shopify GraphQL migration that improved query speed by 29%
+- Phone-based MFA with Okta across a fintech platform
+
+## Get in touch
+
+- Portfolio: [burhank928.github.io/portfolio](https://burhank928.github.io/portfolio)
+- LinkedIn: [linkedin.com/in/burhan-k](https://linkedin.com/in/burhan-k)
+- Email: burhankwork@gmail.com
